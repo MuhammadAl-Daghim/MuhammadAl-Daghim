@@ -1,10 +1,16 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Mohammed
+![](https://media.licdn.com/dms/image/D4E35AQFIq8YbuAWMXQ/profile-framedphoto-shrink_200_200/0/1691410568594?e=1705266000&v=beta&t=k2_ibHxBIA9LnaQS4YYAtF0wH7h5_MHaxB4eMLLdzqk)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Muhammad Al-Daghim, specializing in Back-end Developer. I graduated from Turkish universities in the computer programming branch. I am looking for a job in the field
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C / PHP/ SQL / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JS 
