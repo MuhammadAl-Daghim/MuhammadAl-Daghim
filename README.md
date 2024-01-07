@@ -1,16 +1,14 @@
 ### Hi there 👋
+### Hi there 👋, my name is Mohammed
+![](https://media.licdn.com/dms/image/D4E35AQFIq8YbuAWMXQ/profile-framedphoto-shrink_200_200/0/1691410568594?e=1705266000&v=beta&t=k2_ibHxBIA9LnaQS4YYAtF0wH7h5_MHaxB4eMLLdzqk)
 
-<!--
-**MuhammadAl-Daghim/MuhammadAl-Daghim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Muhammad Al-Daghim, specializing in Back-end Developer. I graduated from Turkish universities in the computer programming branch. I am looking for a job in the field
 
-Here are some ideas to get you started:
+Skills: C / PHP/ SQL / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
