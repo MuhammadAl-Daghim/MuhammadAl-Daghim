@@ -16,15 +16,9 @@ I love solving problems, building web applications, and learning new technologie
 
 ## 💻 Current Focus
 - Improving **PHP & Laravel** skills  
-- Learning **React** and **Web3**  
+  
 
 
-
-## 📊 GitHub Stats
-
-[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&theme=radical)](https://github.com/guilyx)
-
----
 
 
 
