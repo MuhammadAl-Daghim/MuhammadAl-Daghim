@@ -1,21 +1,27 @@
-<h3 align="center"> Hi there 👋</h3>
+# Hi, I'm Muhammad 👋
 
-<p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
-</p>
+I'm a programmer interested in **PHP, C, C++, MySQL, SQL, Laravel, CSS, JavaScript, C#** and algorithms.  
+I enjoy learning and building practical projects.
 
-<h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
-</h4>
-<p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
-</p>
+## 🛠️ Skills
 
-<br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
+| Language / Tool   | Proficiency  |
+|------------------|-------------|
+| C                | 🟩🟩🟩🟩⬜     |
+| C++              | 🟩🟩🟩🟩⬜     |
+| PHP              | 🟩🟩🟩🟩⬜     |
+| MySQL / SQL      | 🟩🟩🟩🟩⬜     |
+| Laravel          | 🟩🟩🟩⬜⬜     |
+| JavaScript       | 🟩🟩🟩⬜⬜     |
+| CSS              | 🟩🟩🟩🟩⬜     |
+| C#               | 🟩🟩⬜⬜⬜     |
+| Algorithms       | 🟩🟩🟩🟩⬜     |
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+## 📫 Contact
+
+- Email: `example@gmail.com`  
+- LinkedIn: [Your Profile](https://www.linkedin.com)  
+
+---
+
+✨ I love programming, solving problems, and improving my skills continuously!
