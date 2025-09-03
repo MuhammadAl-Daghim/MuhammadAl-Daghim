@@ -18,13 +18,7 @@ I love solving problems, building web applications, and learning new technologie
 - Improving **PHP & Laravel** skills  
 - Learning **React** and **Web3**  
 
----
 
-## 🌱 Projects & Contributions
-Check out my repositories for projects and practice exercises:  
-[GitHub Repositories](https://github.com/guilyx?tab=repositories)
-
----
 
 ## 📊 GitHub Stats
 
@@ -32,12 +26,6 @@ Check out my repositories for projects and practice exercises:
 
 ---
 
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/muhammad-aldagaim)  
-- Email: **your-email@example.com**  
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
