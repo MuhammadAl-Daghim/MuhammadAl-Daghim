@@ -1,30 +1,43 @@
+# Hi, I'm Muhammad Aldağaim 👋
+**Web Developer & Programmer**
 
+I'm a passionate programmer with experience in **PHP, C, C++, SQL, MySQL, Laravel, JavaScript, CSS, and C#**.  
+I love solving problems, building web applications, and learning new technologies.
+
+---
+
+## 🛠 Skills
+
+- **Languages:** PHP, C, C++, C#, JavaScript, SQL, HTML, CSS  
+- **Frameworks / Tools:** Laravel, MySQL, Git, Visual Studio, VS Code  
+- **Concepts:** Object-Oriented Programming (OOP), Back-end Development, Web Development, Algorithms  
+
+---
+
+## 💻 Current Focus
+- Improving **PHP & Laravel** skills  
+- Learning **React** and **Web3**  
+
+---
+
+## 🌱 Projects & Contributions
+Check out my repositories for projects and practice exercises:  
+[GitHub Repositories](https://github.com/guilyx?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&theme=radical)](https://github.com/guilyx)
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/muhammad-aldagaim)  
+- Email: **your-email@example.com**  
+
+---
 
 <p align="center">
-  I'm **Muhammad Aldağaim**, a Web Developer and Programmer.  
-  I love building projects with **PHP, C, C++, MySQL, SQL, Laravel, JavaScript, CSS, C#**, and exploring algorithms.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-aldagaim">
-  <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<br>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Muhammad's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-```yaml
-name: Muhammad Aldağaim
-located_in: Turkey
-job: Web Developer & Programmer
-education: ["Computer Programming Institute Graduate"]
-fields_of_interests: ["Web Development", "Back-end Development", "Algorithms", "Databases"]
-technical_background: ["PHP", "C", "C++", "Laravel", "SQL", "MySQL", "JavaScript", "CSS"]
-currently_learning: ["Advanced PHP", "Laravel Framework", "OOP Concepts"]
-will_learn: ["React", "Web3", "AI & Machine Learning"]
-hobbies: ["Gaming", "Learning Programming", "Solving Problems"]
