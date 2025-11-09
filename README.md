@@ -1,25 +1,51 @@
-# Hi, I'm Muhammad Aldağaim 👋
-**Web Developer & Programmer**
+# 👋 Hi, I'm Muhammad
 
-I'm a passionate programmer with experience in **PHP, C, C++, SQL, MySQL, Laravel, JavaScript, CSS, and C#**.  
-I love solving problems, building web applications, and learning new technologies.
-
----
-
-## 🛠 Skills
-
-- **Languages:** PHP, C, C++, C#, JavaScript, SQL, HTML, CSS  
-- **Frameworks / Tools:** Laravel, MySQL, Git, Visual Studio, VS Code  
-- **Concepts:** Object-Oriented Programming (OOP), Back-end Development, Web Development, Algorithms  
+🎯 **Back-End Developer** passionate about coding, problem-solving, and building efficient systems.  
+I love designing logical solutions, working with databases, and writing clean, maintainable code.
 
 ---
 
-## 💻 Current Focus
-- Improving **PHP & Laravel** skills  
-  
+## 💻 Tech Skills
 
+### 🧠 Programming Languages
+- PHP  
+- C / C++  
+- HTML / CSS  
+- SQL  
+- Algorithms & Problem Solving
 
+---
 
+## ⚙️ Areas of Interest
+- Back-End Development  
+- Database Design and Management  
+- Web Application Development  
+- Writing Clean and Scalable Code  
+- Algorithmic Thinking and Optimization  
 
+---
 
+## 🛠️ Tools & Technologies
+- Visual Studio  
+- VS Code  
+- XAMPP / Laragon  
+- MySQL  
+- Git & GitHub  
 
+---
+
+## 🚀 Future Goals
+- Master **Laravel Framework**  
+- Build full-featured web systems and applications  
+- Learn more about **Web Security and Application Protection**
+
+---
+
+## 📫 Contact Me
+- 💼 [GitHub Profile](#)
+- 📧 Email: *your.email@example.com*
+- 🌍 Based in Turkey 🇹🇷
+
+---
+
+> "Good code doesn’t need much explanation — it speaks through clarity and structure."
